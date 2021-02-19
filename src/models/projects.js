@@ -122,6 +122,10 @@ const projects = [
             {
                 "name": "Frontend Repository",
                 "link": "https://github.com/mercerccw/mercer-portfolio"
+            },
+            {
+                "name": "Backend Repository",
+                "link": "https://github.com/mercerccw/mercer-portfolio-service-serverless"
             }
         ]
     },
