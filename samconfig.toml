@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "mercer-portfolio-service"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1syc6k849b5lr"
+s3_prefix = "mercer-portfolio-service"
+region = "us-east-2"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
